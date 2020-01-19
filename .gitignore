@@ -6,3 +6,8 @@ bin-int/
  # Files
 *.user
 Makefile 
+
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
